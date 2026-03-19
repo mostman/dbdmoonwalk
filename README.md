@@ -18,7 +18,7 @@ pip install pynput pillow
 ```
 ## Run the script:
 ```
-python dbd_moonwalk_v0.1.py
+python dbd_moonwalk.py
 ```
 ## Inspiration taken from
 This tool was inspired by [cordovna](https://github.com/cordovna/moonwalkdbd).  
